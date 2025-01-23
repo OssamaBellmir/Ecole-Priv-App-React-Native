@@ -1,2 +1,5 @@
-# Ecole-Priv-App-React-Native
-Ecole Privé App / React Native
+<<<<<<< HEAD
+Your local changes
+=======
+Remote repository changes
+>>>>>>> 99a8f739
